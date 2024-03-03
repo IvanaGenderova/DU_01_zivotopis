@@ -1,0 +1,85 @@
+body{
+    color: #282425;
+    background-color: #FAF6F1;
+    font-size: 24px;
+    line-height:1.6;
+    font-family: "Raleway", sans-serif;
+    margin: 0 auto;
+    }
+
+h1 {
+    font-size: 80px;
+    text-align: center;
+    color:#B8AEA1 ;
+    font-family: "Playfair Display", serif;
+}
+
+h2 {
+    font-size: 50px;
+    text-align: center;
+    font-weight:bold;
+    color: #B8AEA1;
+    margin-top:0;
+    }
+
+h3 {
+    margin-top: 15px;
+}
+h4 {
+    margin-top: 0px;
+}
+
+a{
+    font-style: italic;
+    color: #745237;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: "Playfair Display", serif;
+   }
+
+
+.experience{
+    background-color:#EBE2D7;}
+   
+
+.paticka {
+    text-align: center;
+    background-color: #B8AEA1;
+    color:whitesmoke;
+    padding: 20px 0;
+}
+
+.profilephoto {
+    width:200px;
+    height:250px;}
+
+section {
+    padding:25px 13%;
+}
+
+.menu{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color:#B8AEA1;
+}
+
+.menu li {
+    display: inline-block;
+}
+.menu a {
+    display: inline-block;
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 20px 30px;
+}
+
+.menu a:hover,
+.menu a:focus,
+.menu a:active{
+    background-color: #EBE2D7;
+}
